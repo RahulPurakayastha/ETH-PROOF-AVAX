@@ -43,7 +43,7 @@ The `ErrorHandling` contract provides the following functions:
 
 ## Video Walkthrough
 
-- https://www.loom.com/share/5e2851d4b18d4d3d82554b0db02b9108
+
 
 
 Feel free to explore and modify the contract according to your needs!
